@@ -24,10 +24,10 @@
             <a href="#banner" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="#container-box" class="nav-link">Projects</a>
+            <a href="#projects" class="nav-link">Projects</a>
           </li>
           <li class="nav-item">
-            <a href="#particle-container" class="nav-link">About</a>
+            <a href="#about-me" class="nav-link">About Me</a>
           </li>
         </ul>
         <div class="hamburger">

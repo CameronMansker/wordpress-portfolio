@@ -1,7 +1,7 @@
       <?php get_header(); ?>
 
     <div class="container">
-      <div class="banner">
+      <div id="banner">
         <img id="dummy-code" src="<?php echo get_template_directory_uri(); ?>/img/dummyCode.png" alt="" />
         <img 
           src="<?php echo get_template_directory_uri(); ?>/img/profilePicture.png"
@@ -15,7 +15,7 @@
     </div>
 
     <main>
-      <div class="container-box" id="container-box">
+      <div class="container-box" id="projects">
         <h3>Projects</h3>
         <div class="project-container">
           <div class="slide">
@@ -167,7 +167,7 @@
         </div>
       </div>
 
-      <div class="about-me-container">
+      <div class="about-me-container" id="about-me">
         <div id="particle-container">
           <div class="particle"></div>
           <div class="particle"></div>

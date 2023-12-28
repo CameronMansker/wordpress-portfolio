@@ -5,10 +5,10 @@
             <a href="#banner">Home</a>
           </li>
           <li>
-            <a href="#container-box">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#particle-container">About</a>
+            <a href="#about-me">About Me</a>
           </li>
         </ul>
       </div>
